@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Jha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/roshan-jha-tech/)
 [![YouTube](https://img.shields.io/badge/YouTube-tech__jroshan-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@tech_jroshan)
 [![Instagram](https://img.shields.io/badge/Instagram-@tech__jroshan-ff69b4?style=flat&logo=instagram)](https://www.instagram.com/tech_jroshan/)
-[![Email](https://img.shields.io/badge/Email-jroshan731@gmail.com-red?style=flat&logo=gmail)](mailto:jroshan731@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jroshancode@gmail.com-red?style=flat&logo=gmail)](mailto:jroshancode@gmail.com)
 
 ---
 
