@@ -71,13 +71,17 @@
 
 ## 📂 Featured Projects
 
-🔹 [Email Spam Detection( ML/DL)](https://github.com/jroshanjha/Email-spam-detection) <br>
+<!--🔹 [Email Spam Detection( ML/DL)](https://github.com/jroshanjha/Email-spam-detection) <br>
 🔹 [Machine Learning & EDA Contribution](https://github.com/jroshanjha/MachineLearning) or (https://github.com/jroshanjha/Data-Analaytics-Project) <br>
 🔹 [Personal Advisor Chat Application (LangChain + Streamlit)](https://github.com/jroshanjha/personal-advisor-chat-application)  <br>
 🔹 [Customer Review Classification](https://github.com/jroshanjha/-Customer-Review-Classification)   <br>
-🔹 [Product Review Sentiment Analysis](https://github.com/jroshanjha/Product-Review-Sentiment-Analysis) <br>
+🔹 [Product Review Sentiment Analysis](https://github.com/jroshanjha/Product-Review-Sentiment-Analysis) <br> -->
 <!-- 🔹 [Recommendation System Projects](https://github.com/jroshanjha/Recommender-Systems)  --> 
-🔹 [Employee Loan Prediction](https://github.com/jroshanjha/Loan-approved)
+🔹 [ Amazon Sales Analysis ]  ( https://github.com/jroshancode/Amazon-Sales-Analysis ) 
+
+<!-- [Employee Loan Prediction](https://github.com/jroshanjha/Loan-approved) -->
+
+
 
 ---
 
