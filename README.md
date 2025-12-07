@@ -104,6 +104,7 @@
 📧 [jroshancode@gmail.com](mailto:jroshancode@gmail.com)  
 
 💼 [LinkedIn Profile](https://www.linkedin.com/in/roshan-jha-ind/)  
+📸 [Youtube: @tech_jroshan](https://www.youtube.com/@tech_jroshan/)  
 📸 [Instagram: @tech_jroshan](https://www.instagram.com/tech_jroshan/)  
 
 ---
