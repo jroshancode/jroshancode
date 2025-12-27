@@ -83,7 +83,6 @@
 
 
 
----
 
 ## 📊 GitHub Stats & Activity
 
@@ -96,7 +95,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jroshanjha&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
----
 
 ## 📫 Reach Me
 
