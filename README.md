@@ -85,13 +85,18 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jroshanjha&show_icons=true&theme=tokyonight&cache_seconds=86400" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=jroshanjha&theme=tokyonight" width="48%" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=jroshanjha&show_icons=true&theme=tokyonight&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=jroshanjha&theme=tokyonight" width="48%" /> -->
+  <img src="https://your-project-name.vercel.app/api?username=jroshanjha&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jroshanjha&layout=compact&theme=tokyonight" width="48%" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jroshanjha&layout=compact&theme=tokyonight" width="48%" /> -->
+  <img src="https://your-project-name.vercel.app/api/top-langs/?username=jroshanjha&layout=compact&theme=tokyonight" />
 </p>
+
+<!-- <img src="https://your-project-name.vercel.app/api?username=jroshanjha&show_icons=true&theme=tokyonight" />
+<img src="https://your-project-name.vercel.app/api/top-langs/?username=jroshanjha&layout=compact&theme=tokyonight" /> -->
 
 
 
